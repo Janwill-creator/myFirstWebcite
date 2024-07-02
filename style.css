@@ -1,0 +1,14 @@
+body {
+     background-color: #EEE; 
+}
+
+#container {
+    background-color: white;
+    width: 8
+}
+
+#header { 
+    background-color: #66CCFF ; 
+    color: white 
+    text-align: center; 
+}
